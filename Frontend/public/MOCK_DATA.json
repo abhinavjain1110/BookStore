@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Ascent, The (Voskhozhdeniye)",
+        "title": "Vivamus vestibulum sagittis sapien.",
+        "price": 68,
+        "category": "Unknown",
+        "image": "https://img.freepik.com/premium-photo/opened-book-with-flying-pages-butterflies-dark-backgroundgenerative-ai_391052-12859.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Walk Hard: The Dewey Cox Story",
+        "title": "Curabitur at ipsum ac tellus semper interdum.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/opened-book-with-flying-pages-butterflies-dark-backgroundgenerative-ai_391052-12859.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Howling, The",
+        "title": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/opened-book-with-flying-pages-butterflies-dark-backgroundgenerative-ai_391052-12859.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Casque d'or",
+        "title": "In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "price": 87,
+        "category": "Not applicable",
+        "image": "https://img.freepik.com/premium-photo/opened-book-with-flying-pages-butterflies-dark-backgroundgenerative-ai_391052-12859.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tentacles (Tentacoli)",
+        "title": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",
+        "price": 66,
+        "category": "Unknown",
+        "image": "https://img.freepik.com/premium-photo/opened-book-with-flying-pages-butterflies-dark-backgroundgenerative-ai_391052-12859.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Hook",
+        "title": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+        "price": 54,
+        "category": "Not applicable",
+        "image": "https://img.freepik.com/premium-photo/opened-book-with-flying-pages-butterflies-dark-backgroundgenerative-ai_391052-12859.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Bring It On Again",
+        "title": "Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+        "price": 9,
+        "category": "Unknown",
+        "image": "https://img.freepik.com/premium-photo/opened-book-with-flying-pages-butterflies-dark-backgroundgenerative-ai_391052-12859.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Diary for Timothy, A",
+        "title": "Donec posuere metus vitae ipsum.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/opened-book-with-flying-pages-butterflies-dark-backgroundgenerative-ai_391052-12859.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Last Ferry, The (Ostatni prom)",
+        "title": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/opened-book-with-flying-pages-butterflies-dark-backgroundgenerative-ai_391052-12859.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Brighton Beach Memoirs",
+        "title": "Morbi non lectus.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/opened-book-with-flying-pages-butterflies-dark-backgroundgenerative-ai_391052-12859.jpg"
+    }
+]
